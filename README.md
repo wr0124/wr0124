@@ -16,13 +16,13 @@ Here are some ideas to get you started:
 -->
 ### Dear developer and reader,
 
-I am **Hugo Pierre Lopez**. I am a **web developer & product owner**.
+I am **Julie (Ru WANG) **. I am a **data analyst**.
 
-- 🔭 I’m currently working on Lingualibre and Lingualibre SignIt
-- 🌱 I’m currently learning Sign Languages
-- 👯 I’m looking to collaborate on web tech
-- 🤔 I’m looking for help with dataviz, D3, vueJS
-- 💬 Ask me about web coding languages elearning.
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning machine learning
+- 👯 I’m looking to collaborate on data analyst, dataviz...
+- 🤔 I’m looking for help with a lot of skills 
+- 💬 Ask me about modelling.
 - 📫 How to reach me: [via email](https://meta.wikimedia.org/wiki/Special:EmailUser/Yug)
 - ⚡ Fun fact: you can corrupt me with one mango icecream.
 
@@ -31,11 +31,11 @@ I am **Hugo Pierre Lopez**. I am a **web developer & product owner**.
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=hugolpz" />
+  <img src="[![GitHub Streak](https://streak-stats.demolab.com?user=wr0124)](https://git.io/streak-stats)" />
 </p>
 
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hugolpz&theme=default" />
+  <img src="![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=wr0124&theme=default)" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hugolpz&theme=default" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hugolpz&theme=default&utcOffset=1" />
  </p>
