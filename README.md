@@ -23,7 +23,7 @@ I am **Julie (Ru WANG) **. I am a **data analyst**.
 - 👯 I’m looking to collaborate on data analyst, dataviz...
 - 🤔 I’m looking for help with a lot of skills 
 - 💬 Ask me about modelling.
-- 📫 How to reach me: [via email](https://meta.wikimedia.org/wiki/Special:EmailUser/Yug)
+- 📫 How to reach me: wr0124@gmail.com
 - ⚡ Fun fact: you can corrupt me with one mango icecream.
 
 <p align="center">
@@ -36,6 +36,6 @@ I am **Julie (Ru WANG) **. I am a **data analyst**.
 
 <p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=wr0124&theme=default" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hugolpz&theme=default" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=wr0124&theme=default" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=wr0124&theme=default&utcOffset=8" />
  </p>
