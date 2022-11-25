@@ -35,7 +35,7 @@ I am **Julie (Ru WANG) **. I am a **data analyst**.
 </p>
 
 <p align="center">
-  <img src="![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=wr0124&theme=default)" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=wr0124&theme=default" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hugolpz&theme=default" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hugolpz&theme=default&utcOffset=1" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=wr0124&theme=default&utcOffset=8" />
  </p>
