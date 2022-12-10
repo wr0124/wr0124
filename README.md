@@ -14,17 +14,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Dear developer and reader,
+My name is Nafisat. I'm a Data Analyst who loves working with numbers and understanding processes. I have a degree in Statistics from Obafemi Awolowo University. Right now, I'm a freelancer, working on projects with tools like Excel, Power BI, SQL and Python. I also work on my own personal projects here and there. 
+
+### Hello,
 
 I am **Julie (Ru WANG) **. I am a **data analyst**.
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently career transition to data analyst. I have a PhD degree in Physics from Central China Normal University and love applying the philosophy of physics into the real-world application
 - 🌱 I’m currently learning machine learning
 - 👯 I’m looking to collaborate on data analyst, dataviz...
 - 🤔 I’m looking for help with a lot of skills 
 - 💬 Ask me about modelling.
 - 📫 How to reach me: wr0124@gmail.com
-- ⚡ Fun fact: you can corrupt me with one mango icecream.
+- ⚡ Fun fact: you can corrupt me by sharing art: music, painting...
 
 <p align="center">
   <img src="images/userstats.svg" />
