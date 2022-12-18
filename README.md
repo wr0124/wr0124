@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-My name is Nafisat. I'm a Data Analyst who loves working with numbers and understanding processes. I have a degree in Statistics from Obafemi Awolowo University. Right now, I'm a freelancer, working on projects with tools like Excel, Power BI, SQL and Python. I also work on my own personal projects here and there. 
 
 ### Hello,
 
