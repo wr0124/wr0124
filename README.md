@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ### Hello,
 
-I am **Julie (Ru WANG) **. I am a **data analyst**.
+I am **Julie (Ru WANG)**. I am a **data analyst**.
 
 - 🔭 I’m currently in career transition to data analyst. I have a PhD degree in Physics from Central China Normal University and love applying the philosophy of physics into the real-world application.
 - 🌱 I’m currently learning machine learning.
