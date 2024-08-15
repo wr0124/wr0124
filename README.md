@@ -20,8 +20,8 @@ Here are some ideas to get you started:
 I am **Julie (Ru WANG)**. I am a **data scientist**.
 
 - 🔭 I’m currently in career transition to data scientist. I have a PhD degree in Physics from Central China Normal University and love applying the philosophy of physics into the real-world application.
-- 🌱 I’m currently learning machine learning.
-- 👯 I’m looking to collaborate on data analyst, dataviz...
+- 🌱 I’m currently learning machine learning, deep learning...
+- 👯 I’m looking to collaborate on data analyst, dataviz, train neural networks...
 - 🤔 I’m looking for help with a lot of skills 
 - 💬 Ask me about modelling.
 - 📫 How to reach me: wr0124@gmail.com
