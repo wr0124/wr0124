@@ -17,10 +17,10 @@ Here are some ideas to get you started:
 
 ### Hello,
 
-I am **Julie (Ru WANG)**. I am a **data scientist**.
+I am **Julie (Ru WANG)**. I am a **AI Engineer**.
 
-- 🔭 I’m currently in career transition to data scientist. I have a PhD degree in Physics from Central China Normal University and love applying the philosophy of physics into the real-world application.
-- 🌱 I’m currently learning machine learning, deep learning...
+- 🔭 I’m currently in career transition to AI & Computer Vision Engineer. I have a PhD degree in Physics from Central China Normal University and love applying the philosophy of physics into the real-world application.
+- 🌱 I’m currently working on YOLOv, image/video generation, model optimization and tracking models....
 - 👯 I’m looking to collaborate on data analyst, dataviz, train neural networks...
 - 🤔 I’m looking for help with a lot of skills 
 - 💬 Ask me about modelling.
